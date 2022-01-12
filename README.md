@@ -30,6 +30,7 @@ kubectl get service
 minikube service mongodb-express-service
 
 %minikube service mongodb-express-service
+
 |-----------|-------------------------|-------------|---------------------------|
 | NAMESPACE |          NAME           | TARGET PORT |            URL            |
 |-----------|-------------------------|-------------|---------------------------|
